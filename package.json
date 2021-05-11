@@ -1,0 +1,17 @@
+{
+  "name": "tinkie",
+  "version": "1.0.0",
+  "description": "tinkie",
+  "main": "tinkie.js",
+  "scripts": {
+    "test": "node tinkie.js"
+  },
+  "author": "PinkCode",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3"
+  }
+}
